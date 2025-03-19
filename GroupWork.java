@@ -18,7 +18,8 @@ public class GroupWork {
         System.out.println("Division result: " + Calculator.divide(num1, num2));
         System.out.println("Minimum: " + Calculator.min(num1, num2)); // Group 9's method
         System.out.println("Are numbers equal? " + Calculator.isEqual(num1, num2));  // Group 10's method
-     
+    System.out.println("Quotient: " + Calculator.divide(num1, num2)); // Group 4's method
+
         scanner.close();
     }
 
